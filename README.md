@@ -157,13 +157,6 @@
 | AI_BASE_URL | AI服务基础URL | https://api.openai.com/v1 |
 | AI_MODEL | AI模型名称 | gpt-3.5-turbo |
 
-#### 3. TTS服务配置
-
-| 配置项 | 说明 | 示例 |
-|--------|------|------|
-| INDEX_TTS_BASE_URL | TTS服务地址 | http://localhost:7860 |
-| INDEX_TTS_DEFAULT_VOICE | 默认音色文件路径 | examples/voice_01.wav |
-| INDEX_TTS_DEFAULT_EMO_ALPHA | 默认情感强度 (0-1) | 0.6 |
 
 ## 常见问题
 
