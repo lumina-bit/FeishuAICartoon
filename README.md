@@ -29,6 +29,9 @@
 - 支持全部分镜视频生成
 
 ## 快速开始（使用exe文件）
+### 下载
+
+链接：https://pan.quark.cn/s/eb6c8e719e85
 
 ### 1. 运行应用程序
 
@@ -77,6 +80,8 @@
    - `FEISHU_APP_ID`：应用ID
    - `FEISHU_APP_SECRET`：应用密钥
    - `FEISHU_APP_TOKEN`：应用令牌
+5. 配置权限管理
+   - 开通云文档的操作权限
 
 ### 2. 飞书剧本表格准备
 
