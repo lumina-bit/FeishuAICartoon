@@ -95,7 +95,7 @@
    - **角色列表**：单行文本类型（用于存储提取的角色名称）
 3. 从表格URL中提取表格ID（格式：`tblxxxxxxxxxxxxxx`）
 4. 将表格ID填入配置页面的`FEISHU_TABLE_ID_SCRIPT`字段
-5. 把第一步创建的机器配置到飞书表格管理中,依次点击飞书表格：...》更多》添加文档应用》搜索第一步创建的应用名称
+5. 把第一步创建的应用配置到飞书多维表格中,依次点击飞书表格：...》更多》添加文档应用》搜索第一步创建的应用名称
    <img width="926" height="682" alt="image" src="https://github.com/user-attachments/assets/cb2f5d46-e3ce-4c21-9218-40e361ddafce" />
 
 ### 3. 生成流程
