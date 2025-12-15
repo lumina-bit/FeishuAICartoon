@@ -31,7 +31,7 @@
 ## 快速开始（使用exe文件）
 ### 下载
 
-链接：https://pan.quark.cn/s/eb6c8e719e85
+链接：https://pan.quark.cn/s/592bad7d3acd
 
 ### 1. 运行应用程序
 
