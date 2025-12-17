@@ -157,7 +157,7 @@
 | 配置项 | 说明 | 示例 |
 |--------|------|------|
 | AI_API_KEY | AI服务API密钥 | sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-| AI_BASE_URL | AI服务基础URL | https://api.openai.com/v1 或https://api.deepseek.com或其他平台大模型|
+| AI_BASE_URL | AI服务基础URL | https://api.openai.com/v1 或https://api.deepseek.com 或其他平台|
 | AI_MODEL | AI模型名称 | gpt-3.5-turbo |
 
 
