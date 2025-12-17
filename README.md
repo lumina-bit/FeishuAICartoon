@@ -33,6 +33,10 @@
 
 链接：https://pan.quark.cn/s/8c50d839c2c7
 
+### 前提条件
+
+- **安装FFmpeg**：一键合成视频功能需要依赖FFmpeg。请确保您的系统已安装FFmpeg，并将其添加到系统环境变量中。
+  - Windows：下载FFmpeg并添加到PATH环境变量，具体流程可以搜一搜教程很多
 
 ### 1. 运行应用程序
 
@@ -132,7 +136,6 @@
 
 #### 4.5 视频生成
 - **一键合成**：点击「一键合成视频」按钮
-  这一步需要下载ffmpeg，并配置环境变量，具体流程可以搜一搜教程很多
 - **片段管理**：系统自动处理所有分镜片段
 - **自动打开目录**：视频生成完成后自动打开包含最终视频的文件夹
 
@@ -180,7 +183,15 @@
 - 检查提示词格式是否正确
 
 ### 4. 视频生成失败
-- 确保系统已安装FFmpeg（应用会自动检测）
+- **确保系统已安装FFmpeg**：
+  - Windows：
+    1. 从[FFmpeg官网](https://ffmpeg.org/download.html)下载Windows版本
+    2. 解压到任意目录（如 `C:\ffmpeg`）
+    3. 将 `C:\ffmpeg\bin` 添加到系统环境变量PATH中
+    4. 重启命令提示符或应用程序
+  - macOS：使用Homebrew安装 `brew install ffmpeg`
+  - Linux：使用包管理器安装，如 `apt install ffmpeg` 或 `yum install ffmpeg`
+- 验证FFmpeg安装：打开命令提示符，输入 `ffmpeg -version`，如果显示版本信息则安装成功
 - 检查视频片段格式是否兼容
 - 查看控制台窗口的详细错误信息
 
