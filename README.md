@@ -30,8 +30,8 @@
 
 ## 快速开始（使用exe文件）
 ### 下载
-下载最新版本
-链接：https://pan.quark.cn/s/592bad7d3acd
+
+链接：https://pan.quark.cn/s/8c50d839c2c7
 
 
 ### 1. 运行应用程序
