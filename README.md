@@ -60,10 +60,6 @@
    - `AI_BASE_URL`：AI服务基础URL
    - `AI_MODEL`：AI模型名称
    
-   **TTS服务配置**
-   - `INDEX_TTS_BASE_URL`：TTS服务地址
-   - `INDEX_TTS_DEFAULT_VOICE`：默认音色文件路径
-   - `INDEX_TTS_DEFAULT_EMO_ALPHA`：默认情感强度 (0-1)
 
 3. 点击"保存配置"按钮保存您的配置
 
@@ -161,7 +157,7 @@
 | 配置项 | 说明 | 示例 |
 |--------|------|------|
 | AI_API_KEY | AI服务API密钥 | sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-| AI_BASE_URL | AI服务基础URL | https://api.openai.com/v1 |
+| AI_BASE_URL | AI服务基础URL | https://api.openai.com/v1 或https://api.deepseek.com或其他平台大模型|
 | AI_MODEL | AI模型名称 | gpt-3.5-turbo |
 
 
