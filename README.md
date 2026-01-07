@@ -70,7 +70,7 @@
 ## 使用流程
 
 ### 1. 飞书应用准备（首次使用）
-
+配置教程视频：https://www.bilibili.com/video/BV1iciCBMEZL
 1. 登录 [飞书开发者平台](https://open.feishu.cn/app)
 2. 创建新应用，选择应用类型
 3. 配置应用权限：
